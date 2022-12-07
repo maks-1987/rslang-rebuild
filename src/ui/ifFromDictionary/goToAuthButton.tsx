@@ -14,4 +14,5 @@ function GoToAuthButton() {
 
   )
 }
+
 export default GoToAuthButton
